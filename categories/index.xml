@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | </title>
+    <link>https://www.ireneinoquio.cl/categories/</link>
+      <atom:link href="https://www.ireneinoquio.cl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language>
+    <image>
+      <url>https://www.ireneinoquio.cl/media/icon_hu5bfa637a24fff2329dcf1062b21cacac_13420_512x512_fill_lanczos_center_3.png</url>
+      <title>Categories</title>
+      <link>https://www.ireneinoquio.cl/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

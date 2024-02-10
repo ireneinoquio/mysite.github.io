@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings | </title>
+    <link>https://www.ireneinoquio.cl/teaching/</link>
+      <atom:link href="https://www.ireneinoquio.cl/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teachings</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.ireneinoquio.cl/media/icon_hu5bfa637a24fff2329dcf1062b21cacac_13420_512x512_fill_lanczos_center_3.png</url>
+      <title>Teachings</title>
+      <link>https://www.ireneinoquio.cl/teaching/</link>
+    </image>
+    
+    <item>
+      <title>En breve se actualizará</title>
+      <link>https://www.ireneinoquio.cl/teaching/se/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.ireneinoquio.cl/teaching/se/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

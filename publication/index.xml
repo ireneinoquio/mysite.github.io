@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://www.ireneinoquio.cl/publication/</link>
+      <atom:link href="https://www.ireneinoquio.cl/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.ireneinoquio.cl/media/icon_hu5bfa637a24fff2329dcf1062b21cacac_13420_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://www.ireneinoquio.cl/publication/</link>
+    </image>
+    
+    <item>
+      <title>Exponential rate of decay of correlations of equilibrium states associated with non-uniformly expanding circle maps (In Press)</title>
+      <link>https://www.ireneinoquio.cl/publication/inoquio-2024/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.ireneinoquio.cl/publication/inoquio-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Class of Potentials for Hyperbolic Transcendental Entire Maps</title>
+      <link>https://www.ireneinoquio.cl/publication/inoquio-2023/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.ireneinoquio.cl/publication/inoquio-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Ruelle-Perron-Frobenius theorem for expanding circle maps with an indifferent fixed point.</title>
+      <link>https://www.ireneinoquio.cl/publication/inoquio-2022/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.ireneinoquio.cl/publication/inoquio-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical obstruction to the existence of continuous sub-actions for interval maps with regularly varying property</title>
+      <link>https://www.ireneinoquio.cl/publication/inoquio-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.ireneinoquio.cl/publication/inoquio-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A characterization of hyperbolic potentials of rational maps</title>
+      <link>https://www.ireneinoquio.cl/publication/inoquio-2012/</link>
+      <pubDate>Thu, 26 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.ireneinoquio.cl/publication/inoquio-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
